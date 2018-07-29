@@ -9,10 +9,10 @@ This is a data package of songs written by [Zep Hurme](http://ccmixter.org/peopl
 Songs included and difficulties:
 * [X] Persephone
 	* [X] Amazing
-	* [ ] Medium
+	* [X] Medium
 	* [ ] Easy
 	* [ ] Supaeasy 
 
 ## Credits
 
-* Thanks to [Valerio Bozzolan](https://boz.reyboz.it/) for mapping Persephone in the following difficulties: Amazing.
+* Thanks to [Valerio Bozzolan](https://boz.reyboz.it/) for mapping Persephone in the following difficulties: Amazing, Medium.
