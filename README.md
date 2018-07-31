@@ -11,8 +11,8 @@ Songs included and difficulties:
 	* [X] Amazing
 	* [X] Medium
 	* [X] Easy
-	* [ ] Supaeasy 
+	* [X] Supaeasy 
 
 ## Credits
 
-* Thanks to [Valerio Bozzolan](https://boz.reyboz.it/) for mapping Persephone in the following difficulties: Amazing, Medium, Easy.
+* Thanks to [Valerio Bozzolan](https://boz.reyboz.it/) for mapping Persephone in all the difficulties.
